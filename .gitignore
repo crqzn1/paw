@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.vscode
+/.idea
+__pycache__
+txenv
+db.sqlite3
+/static
+.DS_Store
